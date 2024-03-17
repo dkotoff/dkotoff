@@ -1,4 +1,4 @@
-"Разработчик должен ограничивать себя жесткой специализацией и конкретными технологиями, в мире слишком много интересного" 
+В мире слишком много интересного
 
 ## stack:
 ![Static Badge](https://img.shields.io/badge/Golang-nm?logo=go&logoColor=white&color=black)
